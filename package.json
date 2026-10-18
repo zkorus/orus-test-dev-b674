@@ -1,0 +1,7 @@
+{
+  "name": "orus-test-dev-b674",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  }
+}
