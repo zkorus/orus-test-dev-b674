@@ -1,0 +1,11 @@
+v: 0
+run: 20261018T220121Z-dev-92c4
+repo: zkorus/orus-test-dev-b674
+role: dev
+item: "#1"
+machine: m-f2437959
+attempt: 1
+state: running
+resumes: null
+started: 2026-10-18T22:01:21Z
+role_commit: 84f7c870fa443f903e84d2a4aa50c1720260e084
