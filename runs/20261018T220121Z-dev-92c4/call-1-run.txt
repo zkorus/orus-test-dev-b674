@@ -1,0 +1,11 @@
+84f7c87 The live test's repository
+ M .orus/agents/dev.md
+ M .orus/process/README.md
+ M .orus/settings.yml
+ M README.md
+ M docs/adr/README.md
+ M docs/adr/template.md
+ M docs/use-cases.md
+ M package.json
+ M src/add.js
+ M test/add.test.js
