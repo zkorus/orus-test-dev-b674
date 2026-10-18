@@ -2,7 +2,7 @@
 
 | UC | Need | Class | ADRs | Tests | Status |
 |---|---|---|---|---|---|
-| UC-1 | Subtract two numbers | must | | | accepted |
+| UC-1 | Subtract two numbers | must | 0001 | | accepted |
 
 ## UC-1. Subtract two numbers
 
